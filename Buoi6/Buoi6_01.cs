@@ -17,6 +17,7 @@ namespace Buoi6
             Console.InputEncoding = Encoding.UTF8;
 
             Console.Write("Nhập vào số lượng số trong danh sách: ");
+            Console.Write("Nhập abc: ");
 
             // Hai biến để kiểm tra xem sô nhập vào có phải là số không
             string checkNumber = Console.ReadLine();
