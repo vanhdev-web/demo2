@@ -1,0 +1,7 @@
+C:\Users\hoang\OneDrive\Desktop\IT\Buoi6\bin\Debug\Buoi6.exe.config
+C:\Users\hoang\OneDrive\Desktop\IT\Buoi6\bin\Debug\Buoi6.exe
+C:\Users\hoang\OneDrive\Desktop\IT\Buoi6\bin\Debug\Buoi6.pdb
+C:\Users\hoang\OneDrive\Desktop\IT\Buoi6\obj\Debug\Buoi6.csproj.AssemblyReference.cache
+C:\Users\hoang\OneDrive\Desktop\IT\Buoi6\obj\Debug\Buoi6.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Desktop\IT\Buoi6\obj\Debug\Buoi6.exe
+C:\Users\hoang\OneDrive\Desktop\IT\Buoi6\obj\Debug\Buoi6.pdb
